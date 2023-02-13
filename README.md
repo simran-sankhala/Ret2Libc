@@ -12,3 +12,7 @@ $ ldd ./ret2libc
   libc.so.6 => /lib/i386-linux-gnu/libc.so.6 (0xf7d73000)
   /lib/ld-linux.so.2 (0xf7fc9000)
   ```
+
+## Diagram
+
+![](https://2603957456-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LFEMnER3fywgFHoroYn%2F-MXwAmlrjE8Ejl_0OQQX%2F-MY1FO9lURZfx9fTrAf0%2Fimage.png?alt=media&token=39659182-e3ff-4d34-a031-c7091567890a)
